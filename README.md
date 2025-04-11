@@ -1,2 +1,2 @@
-# python-dl-examples
-A collection of Jupyter Notebooks (Google Colab) that demonstrate common deep learning Python packages and modules.
+# Python Deep Learning Examples
+A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine learning techniques in Python.
