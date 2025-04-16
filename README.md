@@ -1,6 +1,6 @@
 # Python Deep Learning Examples
 
-A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine learning techniques in Python.
+A collection of Jupyter Notebooks (Google Colab) that demonstrate common deep learning techniques in Python.
 
 ## TensorFlow Keras - Logistic Regression on Housing Prices
 
